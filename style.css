@@ -1,0 +1,41 @@
+.container{
+    width: 600px;
+    display: block;
+    margin: auto;
+    border: solid grey;
+    border-radius: 5px;
+    padding: 15px;
+    
+  }
+  
+  h1{
+    text-align: center;
+    
+  }
+  
+  .input{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #B0C4DE;
+    font-size: 20px;
+    margin: 50px 0px;
+  }
+  
+  .button{
+    width: 100%;
+    padding: 15px;
+    background-color: #4682B4;
+  }
+  
+  .button:hover{
+    background-color: #ADD8E6;
+    cursor: pointer;
+  }
+  
+  span{
+    size: 30px;
+  }
+
+  #resultado{
+      font-size: 2rem;
+  }
