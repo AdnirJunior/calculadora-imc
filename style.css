@@ -39,3 +39,10 @@
   #resultado{
       font-size: 2rem;
   }
+
+  .developed{
+      width: 80%;
+      text-align: right;
+      color: rgb(71, 68, 68);
+      margin-right: 200px;
+  }
